@@ -1,0 +1,16 @@
+{
+  "_info": "this file contains a list of all trusted peers and can be shared",
+  "knownPeers": [
+    {
+      "publicKey": "D8EBAF00D25F5947224CAB52C41C97196E4F330A89F6D50500245105495BAA00",
+      "endpoint": {
+        "host": "Peer1",
+        "port": 7900
+      },
+      "metadata": {
+        "name": "Peer1",
+        "roles": "Peer"
+      }
+    }
+  ]
+}
